@@ -1,4 +1,4 @@
-# wii-external
+# wau-external
 
 > 前端组VUE组件挂载种子模块
 
